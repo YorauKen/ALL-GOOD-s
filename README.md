@@ -1,3 +1,3 @@
 # ALL-GOOD-s
 An E-commerce application 
-[https://all-good-s-admin.vercel.app/] All Good&pos;s
+[All Good&pos;s admin] (https://all-good-s-admin.vercel.app/)
