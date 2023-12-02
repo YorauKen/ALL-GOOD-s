@@ -3,6 +3,8 @@ import Currency from "@/components/ui/currency";
 import Button from "@/components/ui/button";
 import { ShoppingCart } from "lucide-react";
 
+
+
 interface InfoProps {
 	data:Product
 };
@@ -10,7 +12,7 @@ interface InfoProps {
 const Info:React.FC<InfoProps> = ({
 	data,
 }) => {
-
+	
 	return ( 
 		<div>
 			<h1 className="text-3xl font-bold text-gray-900">{data.name}</h1>
